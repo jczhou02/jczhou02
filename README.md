@@ -30,7 +30,7 @@ Unity3D free-to-play, all-sports Golfing game inspired by Dude Perfect! Released
 Implement a Bloom filter with two hashing schemes, analyzing the false positive rate versus the theoretical claim (Python, Google Sheets) 
 
 #### 🏥👨‍⚕️ [Health Advisor webapp](https://github.com/STR666666/Health-Advisor): <br>
-SB Hacks X- Full-stack symptons/discussion application (LLM prompting- Open AI, React, gpt, Python- scikit learn)
+SB Hacks X- Full-stack symptons/discussion application (LLM prompting- Open AI, Langchain, DuckDuckGo, Gradio,  React, gpt-3.5-turbo/4, Python- scikit learn)
 
 
 ### 🛸 Where to find me
