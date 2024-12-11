@@ -29,7 +29,7 @@ Unity3D free-to-play, all-sports Golfing game inspired by Dude Perfect! Released
 ####  🌼📝 [BloomFilter Report](https://github.com/jczhou02/BloomFilter): <br>
 Implement a Bloom filter with two hashing schemes, analyzing the false positive rate versus the theoretical claim (Python, Google Sheets) 
 
-#### [Health Advisor webapp](https://github.com/STR666666/Health-Advisor): <br>
+#### 🏥👨‍⚕️ [Health Advisor webapp](https://github.com/STR666666/Health-Advisor): <br>
 SB Hacks X- Full-stack symptons/discussion application (LLM prompting- Open AI, React, gpt, Python- scikit learn)
 
 
