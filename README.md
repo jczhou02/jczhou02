@@ -1,7 +1,7 @@
 
 ## Joshua Zhou - @jczhou02
 Welcome to my profile 🙋‍♂️👋<br/>
-To me, Software Engineer means being a jack of all trades- master of some...and of course, building new and exciting things. <br/>
+To me, Software Engineer means being a jack of all trades- master of some ... and of course, building new and exciting things. <br/>
 Follow me on my journey to mastering Web Development, Video Games, Python data engineering, and more!
 
 ### 💻 Things I code with
