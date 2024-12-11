@@ -1,7 +1,7 @@
 
 ## Joshua Zhou - @jczhou02
 Welcome to my profile 🙋‍♂️👋<br/>
-To me, Software Engineer means being a jack of all trades- master of some; and of course, building new and exciting things. <br/>
+To me, Software Engineer means being a jack of all trades- master of some...and of course, building new and exciting things. <br/>
 Follow me on my journey to mastering Web Development, Video Games, Python data engineering, and more!
 
 ### 💻 Things I code with
@@ -34,7 +34,7 @@ SB Hacks X- Full-stack symptons/discussion application (LLM prompting- Open AI, 
 
 
 ### 🛸 Where to find me
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:myseljczhou02@gmail.com) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/joshu__kun) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ankit-kumar-3a93b5196) 
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:myseljczhou02@gmail.com) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/joshu__kun) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joshua-zhou-667762261/) 
 
 ### ✍️ Random Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
