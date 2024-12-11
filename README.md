@@ -1,41 +1,40 @@
 
-## Ankit Kumar - @ankitk26
-Welcome to my profile <br/>
-Hi, I am Ankit - Developer who loves to learn and build new and exciting things.
-
+## Joshua Zhou - @jczhou02
+Welcome to my profile 🙋‍♂️👋<br/>
+To me, Software Engineer means being a jack of all trades- master of some; and of course, building new and exciting things. <br/>
+Follow me on my journey to mastering Web Development, Video Games, Python data engineering, and more!
 
 ### 💻 Things I code with
 
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)  ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+ ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![mySQL](https://img.shields.io/badge/mySQL%20-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)
+ ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 <br/>
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ankitk26&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
 ### 🔨 My works
 
-#### 🎧 [Next-spotify](https://next-spotify-smoky.vercel.app/): <br>
-View all your playlists, albums and artists in this Spotify clone. A web app using NextJS, TailwindCSS for UI and next-auth for authenticating users through their Spotify account.
+#### 🎶🥊 [Beatbox](https://github.com/jczhou02/Beatbox): <br>
+Music Trivia and Battle webapp (Spotify API, React, Next.js, Supabase, Redis, Vercel) More new features upcoming,  work in progress ⚒️
 
-#### 🎶 [Next-Spotify-v2](https://github.com/ankitk26/Next-Spotify-v2): <br>
-Updated version of Next-spotify with better UI and better features. More new features upcoming,  work in progress ⚒️
+#### 🎬😆 [Legal v.s Illegal anime streaming sites | RF Network Classifier](https://github.com/jczhou02/RF-Network-Classifier): <br>
+Predict network performances between legal and illegal anime streaming services. Coolest excuse to pirate anime on several Rasperry-Pi and present research to my professor (Python, netunicorn, Random Forest model, Docker, Raspberry Pi, Selenium, Chromium, tshark)  
 
-####  📝 [Among-us](http://among-us-kappa.vercel.app/): <br>
-Open questions and discuss with other developers to resolve the question. A full-stack discussion application built using Next.JS, GraphQL, Typescript and MongoDB with user authentication.
+####  👨‍💻🤓 [Cflat compiler](https://github.com/jczhou02/LL1-Cflat-Compiler): <br>
+LL1 recursive descent based compiler using modern memory management tools (C++, GBD) 
 
-#### 👩‍💻 [Nextpen](http://next-pen.vercel.app/): <br>
-Write and run your code without installing any compiler in your system. A code editor web app built using React and TailwindCSS.
+#### ⛳🏌 [We Do A Little Golfing Here](https://drive.google.com/file/d/1MPUInyz__hlA_4v-ujTjee3AxkGXVgLW/view?usp=drive_link): <br>
+Unity3D free-to-play, all-sports Golfing game inspired by Dude Perfect! Released (tentative) on Itch.io under Red Athena and Gaucho Game Labs. Contact me personally for a demo of the game!
 
-#### 😆 [Meme Generator](https://react-meme-generator-12c45.web.app/): <br>
-Create memes from templates or your images or image links. A React app built using TypeScript and TailwindCSS, and deployed on Firebase.
+####  🌼📝 [BloomFilter Report](https://github.com/jczhou02/BloomFilter): <br>
+Implement a Bloom filter with two hashing schemes, analyzing the false positive rate versus the theoretical claim (Python, Google Sheets) 
 
-#### 📸 [InstaClone](https://github.com/ankitk26/Insta-Clone): <br>
-View and upload image posts to share your experience with your friends. A Flutter app built along with Firebase.
+#### [Health Advisor webapp](https://github.com/STR666666/Health-Advisor): <br>
+SB Hacks X- Full-stack symptons/discussion application (LLM prompting- Open AI, React, gpt, Python- scikit learn)
 
 
-### 🔭 Where to find me
-![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:myselfankit51@gmail.com) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/akcejia) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ankit-kumar-3a93b5196) [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@ankitkr)
+### 🛸 Where to find me
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:myseljczhou02@gmail.com) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/joshu__kun) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ankit-kumar-3a93b5196) 
 
 ### ✍️ Random Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
